@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **sosinaesayas@gmail.com**
 
-- 📄 Know about my experiences [https://658582d4e2582cc528e19bcd--shiny-valkyrie-e1624c.netlify.app/](https://658582d4e2582cc528e19bcd--shiny-valkyrie-e1624c.netlify.app/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sosinaesayas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sosinaesayas" height="30" width="40" /></a>
